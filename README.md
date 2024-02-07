@@ -1,6 +1,6 @@
 # Vision Algorithms for Mobile Robotics (VAMR) Mini project
 
-Report can be found [here](https://drive.google.com/file/d/1wEVO8TuzqwPWsVTQyUlEOYNZA4ZfJYsk/view?usp=sharing)
+Report can be found [here](report/VAMR_MiniProject_Report.pdf)
 
 # Team Members
 1. Hardik Shah (hashah@ethz.ch)
